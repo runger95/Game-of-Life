@@ -1,0 +1,6 @@
+It's a todo list:
+
+Create some requirements
+Make the game with ASCII GUI
+Manage the requirements in something better than a .txt
+Make the game with Real GUI

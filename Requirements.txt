@@ -1,0 +1,16 @@
+I'm a systems engineer so I <3 requirements. This document will contain requirements to create Conway's Game of Life.
+It is expected that this .txt will be replaced with something better.
+
+R1.000
+The game shall be programmed in C
+
+R2.000
+The Game shall allow the user to place their own starting setup
+
+R3
+The Game shall have a grid of 100x100
+
+R3
+The Game shall have ASCII graphics
+
+R4
