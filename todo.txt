@@ -1,6 +1,16 @@
 It's a todo list:
 
 Create some requirements
+change this to a .md
+change requirements to .md
 Make the game with ASCII GUI
 Manage the requirements in something better than a .txt
 Make the game with Real GUI
+
+Main releases
+1.0 Main release
+2.0 Theading to speed/slow down cycles
+3.0 Create
+4.0
+5.0
+6.0
