@@ -8,9 +8,9 @@ Manage the requirements in something better than a .txt
 Make the game with Real GUI
 
 Main releases
-1.0 Main release
-2.0 Theading to speed/slow down cycles
-3.0 Create
-4.0
+1.0 First release, baseline. User can place a few cells on the board
+2.0 Provide user ability to set up their own initial conditions
+3.0 Theading to speed/slow down cycles
+4.0 Multiple Files?
 5.0
-6.0
+6.0 Non-ASCII GUI
